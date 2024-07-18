@@ -68,7 +68,7 @@ button {
     border-radius: 12px;
     cursor: pointer;
     font-size: 25px;
-    margin-top:clamp(24px, 5vw, 55px);
+    margin-top:clamp(40px, 5vw, 55px);
     font-family: Lexend-Medium;
 }
 
@@ -125,7 +125,7 @@ button:hover {
         font-size: 16px;
     }
     .skipBtn{
-        margin-top: 24px;
+        margin-top: 16px;
         margin-left: 0px;
     }
 }
