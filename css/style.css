@@ -296,3 +296,10 @@ button:hover {
         width: max-content;
     }
 }
+
+@media (max-width: 363px) {
+    h1{
+        background-color: #2563EB;
+        width:inherit;
+    }
+}
